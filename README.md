@@ -1,5 +1,8 @@
 # Hi there, I'm Yash 👋  
 
+![Profile Views](https://komarev.com/ghpvc/?username=190-785&label=Profile%20Views&color=blue&style=flat)  
+
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -29,30 +32,32 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=190-785&show_icons=true&theme=radical" alt="Yash's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=190-785&theme=radical" alt="Yash's GitHub streak" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=190-785&show_icons=true&theme=radical" alt="GitHub stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=190-785&theme=radical" alt="GitHub streak" height="180em"/>
 </p>
 
 ---
 
-## 🏆 Languages I Work With  
+## 🏆 Top Languages  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190-785&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
-""https://github.com/190-785/Interactive-Resume-Maker
 
-https://github.com/190-785/Plant_Watering_System
+## 📈 Contribution Graph  
 
-https://github.com/190-785/First_Link_Backend
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=190-785&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
-https://github.com/190-785/First_Link ""
+---
 
 ## 📌 Featured Projects  
-🔗 [Interactive Resume Maker](https://github.com/190-785/Interactive-Resume-Maker) – A 3D immersive resume builder with **Three.js, Spring Boot, MongoDB**  
-🔗 [Plant Watering IoT Logger](https://github.com/190-785/Plant_Watering_System) – ESP8266 + Firebase/Google Sheets for secure IoT logging  
+
+🔗 [Interactive Resume Maker](https://github.com/190-785/Interactive-Resume-Maker) – 3D immersive resume builder (**Three.js + Spring Boot + MongoDB**)  
+🔗 [Plant Watering IoT Logger](https://github.com/190-785/Plant_Watering_System) – ESP8266 + Firebase/Google Sheets for IoT logging  
 
 ---
 
