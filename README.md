@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=190-785&show_icons=true&theme=radical" alt="GitHub stats" height="180em"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=190-785&theme=radical" alt="GitHub streak" height="180em"/>
 </p>
 
----
 
 ## 🏆 Top Languages  
 
@@ -17,7 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190-785&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
 ## 📈 Contribution Graph  
 
